@@ -1,0 +1,8 @@
+[package]
+name = "world"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.15.1"
+reikna = "0.12.3"
