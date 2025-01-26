@@ -4,5 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+GSL = "7.0.0"
 bevy = "0.15.1"
+num = "0.4.3"
 reikna = "0.12.3"
